@@ -28,8 +28,8 @@
     --color-gradient: linear-gradient(45deg, var(--color-orange-100), var(--color-yellow-100), var(--color-red-100));
     --color-gradient-moon: linear-gradient(117deg, var(--color-blue-100), var(--color-blue-150), var(--color-blue-200), var(--color-blue-250));
 
-    --switch-bg-url: url(../images/sun.svg);
-    --switch-bg-moon: url(../images/moon-stars.svg);
+    --switch-bg-url: url(../images/sun.png);
+    --switch-bg-moon: url(../images/moon-stars.png);
 
     font-family: 'Bacasime Antique', serif;
 
