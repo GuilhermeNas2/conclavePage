@@ -10,7 +10,7 @@
 :root {
 
     --color-dark-100: #000 ;
-    --color-dark-50: #000000de;
+    --color-dark-50: #000000a1;
 
     --color-white-50: #fff ;
 
@@ -156,7 +156,7 @@ span {
 
 .container-list-item:hover {
     transform: scale(1.2);
-    box-shadow: 0 2px 15px rgba(17, 25, 40, 0.5);
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.322);
     background: var(--color-dark-50);
     transition: .4s;
     outline: 1px solid #fff;
