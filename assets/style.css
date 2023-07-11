@@ -98,6 +98,8 @@ span {
     position: absolute;
     top: 0;    
     cursor: pointer; 
+    z-index: 1;
+      transform: translateY(-50%);
       
 }
 
