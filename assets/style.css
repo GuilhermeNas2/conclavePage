@@ -50,7 +50,7 @@
 
 .dark {
     background: var(--color-gradient-moon);    
-    --switch-bg-moon: url(../images/moon-stars.svg);     
+    --switch-bg-url: url(../images/moon-stars.svg);     
 }
 
 

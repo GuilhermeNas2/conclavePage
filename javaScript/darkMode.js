@@ -10,7 +10,7 @@ function toggleMode() {
 
         button.classList.remove('slidebutton');
         button.classList.add('slide-back');
-        button.style.background = ('white var(--switch-bg-url) no-repeat center');
+       
 
     } else {
         
@@ -18,7 +18,6 @@ function toggleMode() {
 
         button.classList.add('slidebutton');
         button.classList.remove('slide-back')
-        button.style.background = ('white var(--switch-bg-moon) no-repeat center');
         
     }
     
